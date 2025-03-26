@@ -55,4 +55,4 @@ The objective of this project is to analyze customer data using Power BI and cre
 
 ### Screenshots:
 Below is the link to the screenshots taken from the Power BI dashboard:  
-[View Screenshots](https://drive.google.com/drive/folders/10a-8UBeIj3uGSSBfLIpNavasxLtS8bpD?usp=drive_link)
+-https://drive.google.com/drive/folders/10a-8UBeIj3uGSSBfLIpNavasxLtS8bpD?usp=drive_link
