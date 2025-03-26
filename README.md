@@ -6,13 +6,13 @@ Dataset Overview:
 File Name: customer.csv
 Description: This dataset contains customer-related information, including demographics, purchase history, and other attributes relevant for business analysis.
 Key Features:
-Customer ID
-Name
-Age
-Gender
-Purchase Amount
-Location
-Other relevant attributes
+.Customer ID
+.Name
+.Age
+.Gender
+.Purchase Amount
+.Location
+.Other relevant attributes
 
 Power BI Implementation:
 
